@@ -1,0 +1,26 @@
+html {
+    font-size: 20px;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    text-transform: capitalize;
+    text-shadow:
+      1px 1px 1px cyan,
+      2px 2px 1px cyan;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+  
+  h1 + p {
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 1rem;
+    color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+  }
+  
